@@ -1,0 +1,151 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Speed,Generation,Power
+1,Bulbasaur,Grass,Poison,318,45,49,49,45,1,weak
+2,Ivysaur,Grass,Poison,405,60,62,63,60,1,weak
+3,Venusaur,Grass,Poison,525,80,82,83,80,1,strong
+3,VenusaurMega Venusaur,Grass,Poison,625,80,100,123,80,1,strong
+6,Charizard,Fire,Flying,534,78,84,78,100,1,strong
+6,CharizardMega Charizard X,Fire,Dragon,634,78,130,111,100,1,strong
+6,CharizardMega Charizard Y,Fire,Flying,634,78,104,78,100,1,strong
+16,Pidgey,Normal,Flying,251,40,45,40,56,1,weak
+17,Pidgeotto,Normal,Flying,349,63,60,55,71,1,weak
+18,Pidgeot,Normal,Flying,479,83,80,75,101,1,weak
+18,PidgeotMega Pidgeot,Normal,Flying,579,83,80,80,121,1,weak
+21,Spearow,Normal,Flying,262,40,60,30,70,1,weak
+22,Fearow,Normal,Flying,442,65,90,65,100,1,strong
+39,Jigglypuff,Normal,Fairy,270,115,45,20,20,1,weak
+40,Wigglytuff,Normal,Fairy,435,140,70,45,45,1,weak
+43,Oddish,Grass,Poison,320,45,50,55,30,1,weak
+44,Gloom,Grass,Poison,395,60,65,70,40,1,weak
+45,Vileplume,Grass,Poison,490,75,80,85,50,1,weak
+62,Poliwrath,Water,Fighting,510,90,95,95,70,1,strong
+69,Bellsprout,Grass,Poison,300,50,75,35,40,1,weak
+70,Weepinbell,Grass,Poison,390,65,90,50,55,1,strong
+71,Victreebel,Grass,Poison,490,80,105,65,70,1,strong
+72,Tentacool,Water,Poison,335,40,40,35,70,1,weak
+73,Tentacruel,Water,Poison,515,80,70,65,100,1,weak
+79,Slowpoke,Water,Psychic,315,90,65,65,15,1,weak
+80,Slowbro,Water,Psychic,490,95,75,110,30,1,weak
+80,SlowbroMega Slowbro,Water,Psychic,590,95,75,180,30,1,weak
+83,Farfetch'd,Normal,Flying,352,52,65,55,60,1,weak
+84,Doduo,Normal,Flying,310,35,85,45,75,1,strong
+85,Dodrio,Normal,Flying,460,60,110,70,100,1,strong
+87,Dewgong,Water,Ice,475,90,70,80,70,1,weak
+91,Cloyster,Water,Ice,525,50,95,180,70,1,strong
+102,Exeggcute,Grass,Psychic,325,60,40,80,40,1,weak
+103,Exeggutor,Grass,Psychic,520,95,95,85,55,1,strong
+121,Starmie,Water,Psychic,520,60,75,85,115,1,weak
+130,Gyarados,Water,Flying,540,95,125,79,81,1,strong
+130,GyaradosMega Gyarados,Water,Dark,640,95,155,109,81,1,strong
+131,Lapras,Water,Ice,535,130,85,80,60,1,strong
+146,Moltres,Fire,Flying,580,90,100,90,90,1,strong
+163,Hoothoot,Normal,Flying,262,60,30,30,50,2,weak
+164,Noctowl,Normal,Flying,442,100,50,50,70,2,weak
+170,Chinchou,Water,Electric,330,75,38,38,67,2,weak
+171,Lanturn,Water,Electric,460,125,58,58,67,2,weak
+174,Igglybuff,Normal,Fairy,210,90,30,15,15,2,weak
+183,Marill,Water,Fairy,250,70,20,50,40,2,weak
+184,Azumarill,Water,Fairy,420,100,50,80,50,2,weak
+187,Hoppip,Grass,Flying,250,35,35,40,50,2,weak
+188,Skiploom,Grass,Flying,340,55,45,50,80,2,weak
+189,Jumpluff,Grass,Flying,460,75,55,70,110,2,weak
+194,Wooper,Water,Ground,210,55,45,45,15,2,weak
+195,Quagsire,Water,Ground,430,95,85,85,35,2,strong
+199,Slowking,Water,Psychic,490,95,75,80,30,2,weak
+203,Girafarig,Normal,Psychic,455,70,80,65,85,2,weak
+211,Qwilfish,Water,Poison,430,65,95,75,85,2,strong
+219,Magcargo,Fire,Rock,410,50,50,120,30,2,weak
+222,Corsola,Water,Rock,380,55,55,85,35,2,weak
+226,Mantine,Water,Flying,465,65,40,70,70,2,weak
+230,Kingdra,Water,Dragon,540,75,95,95,85,2,strong
+250,Ho-oh,Fire,Flying,680,106,130,90,90,2,strong
+254,SceptileMega Sceptile,Grass,Dragon,630,70,110,75,145,3,strong
+256,Combusken,Fire,Fighting,405,60,85,60,55,3,strong
+257,Blaziken,Fire,Fighting,530,80,120,70,80,3,strong
+257,BlazikenMega Blaziken,Fire,Fighting,630,80,160,80,100,3,strong
+259,Marshtomp,Water,Ground,405,70,85,70,50,3,strong
+260,Swampert,Water,Ground,535,100,110,90,60,3,strong
+260,SwampertMega Swampert,Water,Ground,635,100,150,110,70,3,strong
+270,Lotad,Water,Grass,220,40,30,30,30,3,weak
+271,Lombre,Water,Grass,340,60,50,50,50,3,weak
+272,Ludicolo,Water,Grass,480,80,70,70,70,3,weak
+274,Nuzleaf,Grass,Dark,340,70,70,40,60,3,weak
+275,Shiftry,Grass,Dark,480,90,100,60,80,3,strong
+276,Taillow,Normal,Flying,270,40,55,30,85,3,weak
+277,Swellow,Normal,Flying,430,60,85,60,125,3,strong
+278,Wingull,Water,Flying,270,40,30,30,85,3,weak
+279,Pelipper,Water,Flying,430,60,50,100,65,3,weak
+286,Breloom,Grass,Fighting,460,60,130,80,70,3,strong
+315,Roselia,Grass,Poison,400,50,60,45,65,3,weak
+318,Carvanha,Water,Dark,305,45,90,20,65,3,strong
+319,Sharpedo,Water,Dark,460,70,120,40,95,3,strong
+319,SharpedoMega Sharpedo,Water,Dark,560,70,140,70,105,3,strong
+322,Numel,Fire,Ground,305,60,60,40,35,3,weak
+323,Camerupt,Fire,Ground,460,70,100,70,40,3,strong
+323,CameruptMega Camerupt,Fire,Ground,560,70,120,100,20,3,strong
+332,Cacturne,Grass,Dark,475,70,115,60,55,3,strong
+333,Swablu,Normal,Flying,310,45,40,60,50,3,weak
+339,Barboach,Water,Ground,288,50,48,43,60,3,weak
+340,Whiscash,Water,Ground,468,110,78,73,60,3,weak
+342,Crawdaunt,Water,Dark,468,63,120,85,55,3,strong
+357,Tropius,Grass,Flying,460,99,68,83,51,3,weak
+369,Relicanth,Water,Rock,485,100,90,130,55,3,strong
+389,Torterra,Grass,Ground,525,95,109,105,56,4,strong
+391,Monferno,Fire,Fighting,405,64,78,52,81,4,weak
+392,Infernape,Fire,Fighting,534,76,104,71,108,4,strong
+395,Empoleon,Water,Steel,530,84,86,88,60,4,strong
+396,Starly,Normal,Flying,245,40,55,30,60,4,weak
+397,Staravia,Normal,Flying,340,55,75,50,80,4,weak
+398,Staraptor,Normal,Flying,485,85,120,70,100,4,strong
+400,Bibarel,Normal,Water,410,79,85,60,71,4,strong
+406,Budew,Grass,Poison,280,40,30,35,55,4,weak
+407,Roserade,Grass,Poison,515,60,70,65,90,4,weak
+423,Gastrodon,Water,Ground,475,111,83,68,39,4,strong
+428,LopunnyMega Lopunny,Normal,Fighting,580,65,136,94,135,4,strong
+441,Chatot,Normal,Flying,411,76,65,45,91,4,weak
+458,Mantyke,Water,Flying,345,45,20,50,50,4,weak
+459,Snover,Grass,Ice,334,60,62,50,40,4,weak
+460,Abomasnow,Grass,Ice,494,90,92,75,60,4,strong
+460,AbomasnowMega Abomasnow,Grass,Ice,594,90,132,105,30,4,strong
+484,Palkia,Water,Dragon,680,90,120,100,100,4,strong
+485,Heatran,Fire,Steel,600,91,90,106,77,4,strong
+492,ShayminSky Forme,Grass,Flying,600,100,103,75,127,4,strong
+499,Pignite,Fire,Fighting,418,90,93,55,55,5,strong
+500,Emboar,Fire,Fighting,528,110,123,65,65,5,strong
+519,Pidove,Normal,Flying,264,50,55,50,43,5,weak
+520,Tranquill,Normal,Flying,358,62,77,62,65,5,weak
+521,Unfezant,Normal,Flying,488,80,115,80,93,5,strong
+531,AudinoMega Audino,Normal,Fairy,545,103,60,126,50,5,weak
+536,Palpitoad,Water,Ground,384,75,65,55,69,5,weak
+537,Seismitoad,Water,Ground,509,105,95,75,74,5,strong
+546,Cottonee,Grass,Fairy,280,40,27,60,66,5,weak
+547,Whimsicott,Grass,Fairy,480,60,67,85,116,5,weak
+555,DarmanitanZen Mode,Fire,Psychic,540,105,30,105,55,5,weak
+564,Tirtouga,Water,Rock,355,54,78,103,22,5,weak
+565,Carracosta,Water,Rock,495,74,108,133,32,5,strong
+580,Ducklett,Water,Flying,305,62,44,50,55,5,weak
+581,Swanna,Water,Flying,473,75,87,63,98,5,strong
+585,Deerling,Normal,Grass,335,60,60,50,75,5,weak
+586,Sawsbuck,Normal,Grass,475,80,100,70,95,5,strong
+590,Foongus,Grass,Poison,294,69,55,45,15,5,weak
+591,Amoonguss,Grass,Poison,464,114,85,70,30,5,strong
+592,Frillish,Water,Ghost,335,55,40,50,40,5,weak
+593,Jellicent,Water,Ghost,480,100,60,70,60,5,weak
+597,Ferroseed,Grass,Steel,305,44,50,91,10,5,weak
+598,Ferrothorn,Grass,Steel,489,74,94,131,20,5,strong
+627,Rufflet,Normal,Flying,350,70,83,50,60,5,strong
+628,Braviary,Normal,Flying,510,100,123,75,80,5,strong
+640,Virizion,Grass,Fighting,580,91,90,72,108,5,strong
+647,KeldeoOrdinary Forme,Water,Fighting,580,91,72,90,108,5,weak
+647,KeldeoResolute Forme,Water,Fighting,580,91,72,90,108,5,weak
+648,MeloettaAria Forme,Normal,Psychic,600,100,77,77,90,5,weak
+648,MeloettaPirouette Forme,Normal,Fighting,600,100,128,90,128,5,strong
+652,Chesnaught,Grass,Fighting,530,88,107,122,64,6,strong
+655,Delphox,Fire,Psychic,534,75,69,72,104,6,weak
+658,Greninja,Water,Dark,530,72,95,67,122,6,strong
+660,Diggersby,Normal,Ground,423,85,56,77,78,6,weak
+661,Fletchling,Normal,Flying,278,45,50,43,62,6,weak
+662,Fletchinder,Fire,Flying,382,62,73,55,84,6,weak
+663,Talonflame,Fire,Flying,499,78,81,71,126,6,strong
+667,Litleo,Fire,Normal,369,62,50,58,72,6,weak
+668,Pyroar,Fire,Normal,507,86,68,72,106,6,weak
+721,Volcanion,Fire,Water,600,80,110,120,70,6,strong

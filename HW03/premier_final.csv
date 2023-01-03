@@ -1,0 +1,547 @@
+Player,Team,Nation,Pos,Age,MP,Min,Gls,Ast,PK,CrdY,CrdR,Gls_Y
+Bukayo Saka,Arsenal,eng ENG,FW,19.0,38,2978.0,11.0,7.0,2.0,6.0,0.0,1
+Gabriel Dos Santos,Arsenal,br BRA,DF,23.0,35,3063.0,5.0,0.0,0.0,8.0,1.0,1
+Aaron Ramsdale,Arsenal,eng ENG,GK,23.0,34,3060.0,0.0,0.0,0.0,1.0,0.0,0
+Ben White,Arsenal,eng ENG,DF,23.0,32,2880.0,0.0,0.0,0.0,3.0,0.0,0
+Martin Ødegaard,Arsenal,no NOR,MF,22.0,36,2785.0,7.0,4.0,0.0,4.0,0.0,1
+Granit Xhaka,Arsenal,ch SUI,MF,28.0,27,2327.0,1.0,2.0,0.0,10.0,1.0,1
+Thomas Partey,Arsenal,gh GHA,MF,28.0,24,2028.0,2.0,1.0,0.0,6.0,0.0,1
+Kieran Tierney,Arsenal,sct SCO,DF,24.0,22,1915.0,1.0,3.0,0.0,0.0,0.0,1
+Emile Smith Rowe,Arsenal,eng ENG,MF,21.0,33,1921.0,10.0,2.0,0.0,1.0,0.0,1
+Martinelli,Arsenal,br BRA,FW,20.0,29,1860.0,6.0,6.0,1.0,3.0,1.0,1
+Alexandre Lacazette,Arsenal,fr FRA,FW,30.0,30,1782.0,4.0,7.0,2.0,0.0,0.0,1
+Takehiro Tomiyasu,Arsenal,jp JPN,DF,22.0,21,1679.0,0.0,1.0,0.0,2.0,0.0,0
+Cédric Soares,Arsenal,pt POR,DF,29.0,21,1486.0,1.0,1.0,0.0,3.0,0.0,1
+Nuno Tavares,Arsenal,pt POR,DF,21.0,22,1176.0,1.0,1.0,0.0,2.0,0.0,1
+Albert Sambi Lokonga,Arsenal,be BEL,MF,21.0,19,1134.0,0.0,0.0,0.0,5.0,0.0,0
+Pierre-Emerick Aubameyang,Arsenal,ga GAB,FW,32.0,14,1037.0,4.0,1.0,0.0,3.0,0.0,1
+Rob Holding,Arsenal,eng ENG,DF,25.0,15,845.0,1.0,0.0,0.0,4.0,1.0,1
+Eddie Nketiah,Arsenal,eng ENG,FW,22.0,21,835.0,5.0,1.0,0.0,3.0,0.0,1
+Mohamed Elneny,Arsenal,eg EGY,MF,29.0,14,806.0,0.0,2.0,0.0,1.0,0.0,0
+Nicolas Pépé,Arsenal,ci CIV,FW,26.0,20,696.0,1.0,2.0,0.0,0.0,0.0,1
+Bernd Leno,Arsenal,de GER,GK,29.0,4,360.0,0.0,0.0,0.0,0.0,0.0,0
+Ainsley Maitland-Niles,Arsenal,eng ENG,MF,23.0,8,268.0,0.0,0.0,0.0,0.0,0.0,0
+Pablo Marí,Arsenal,es ESP,DF,27.0,2,180.0,0.0,0.0,0.0,1.0,0.0,0
+Calum Chambers,Arsenal,eng ENG,DF,26.0,2,170.0,0.0,0.0,0.0,0.0,0.0,0
+Sead Kolainac,Arsenal,ba BIH,DF,28.0,2,91.0,0.0,0.0,0.0,1.0,0.0,0
+Folarin Balogun,Arsenal,eng ENG,FW,20.0,2,70.0,0.0,0.0,0.0,0.0,0.0,0
+Reiss Nelson,Arsenal,eng ENG,FW,21.0,1,20.0,0.0,0.0,0.0,0.0,0.0,0
+Matty Cash,Aston Villa,pl POL,DF,23.0,38,3377.0,4.0,3.0,0.0,8.0,0.0,1
+Emiliano Martínez,Aston Villa,ar ARG,GK,28.0,36,3240.0,0.0,0.0,0.0,4.0,0.0,0
+Tyrone Mings,Aston Villa,eng ENG,DF,28.0,36,3189.0,1.0,3.0,0.0,11.0,0.0,1
+John McGinn,Aston Villa,sct SCO,MF,26.0,35,3090.0,3.0,4.0,0.0,8.0,0.0,1
+Ollie Watkins,Aston Villa,eng ENG,FW,25.0,35,2952.0,11.0,2.0,1.0,7.0,0.0,1
+Douglas Luiz,Aston Villa,br BRA,MF,23.0,34,2715.0,2.0,3.0,0.0,7.0,0.0,1
+Ezri Konsa,Aston Villa,eng ENG,DF,23.0,29,2477.0,2.0,0.0,0.0,6.0,2.0,1
+Jacob Ramsey,Aston Villa,eng ENG,MF,20.0,34,2467.0,6.0,1.0,0.0,6.0,0.0,1
+Emi Buendía,Aston Villa,ar ARG,FW,24.0,35,1899.0,4.0,6.0,0.0,1.0,0.0,1
+Danny Ings,Aston Villa,eng ENG,FW,29.0,30,1898.0,7.0,6.0,1.0,4.0,0.0,1
+Matt Targett,Aston Villa,eng ENG,DF,25.0,17,1431.0,1.0,1.0,0.0,2.0,0.0,1
+Philippe Coutinho,Aston Villa,br BRA,MF,29.0,19,1329.0,5.0,3.0,0.0,0.0,0.0,1
+Lucas Digne,Aston Villa,fr FRA,DF,28.0,16,1269.0,0.0,4.0,0.0,2.0,0.0,0
+Ashley Young,Aston Villa,eng ENG,DF,36.0,24,1250.0,0.0,2.0,0.0,2.0,0.0,0
+Marvelous Nakamba,Aston Villa,zw ZIM,MF,27.0,16,904.0,0.0,0.0,0.0,5.0,0.0,0
+Calum Chambers,Aston Villa,eng ENG,DF,26.0,11,831.0,1.0,0.0,0.0,1.0,0.0,1
+Leon Bailey,Aston Villa,jm JAM,FW,23.0,18,761.0,1.0,2.0,0.0,3.0,0.0,1
+Axel Tuanzebe,Aston Villa,eng ENG,DF,23.0,9,508.0,0.0,0.0,0.0,1.0,0.0,0
+Kortney Hause,Aston Villa,eng ENG,DF,26.0,7,397.0,1.0,0.0,0.0,0.0,0.0,1
+Anwar El Ghazi,Aston Villa,nl NED,FW,26.0,9,386.0,1.0,1.0,1.0,2.0,0.0,1
+Morgan Sanson,Aston Villa,fr FRA,MF,26.0,10,356.0,0.0,0.0,0.0,0.0,0.0,0
+Carney Chukwuemeka,Aston Villa,eng ENG,MF,17.0,12,301.0,0.0,1.0,0.0,0.0,0.0,0
+Bertrand Traoré,Aston Villa,bf BFA,MF,25.0,9,220.0,0.0,0.0,0.0,0.0,0.0,0
+Tim Iroegbunam,Aston Villa,eng ENG,MF,18.0,3,92.0,0.0,0.0,0.0,1.0,0.0,0
+Robin Olsen,Aston Villa,se SWE,GK,31.0,1,90.0,0.0,0.0,0.0,0.0,0.0,0
+Jed Steer,Aston Villa,eng ENG,GK,28.0,1,90.0,0.0,0.0,0.0,0.0,0.0,0
+Cameron Archer,Aston Villa,eng ENG,MF,19.0,3,27.0,0.0,0.0,0.0,0.0,0.0,0
+Keinan Davis,Aston Villa,eng ENG,FW,23.0,1,12.0,0.0,0.0,0.0,0.0,0.0,0
+Trézéguet,Aston Villa,eg EGY,FW,26.0,1,11.0,0.0,0.0,0.0,0.0,0.0,0
+Jaden Philogene Bidace,Aston Villa,eng ENG,FW,19.0,1,5.0,0.0,0.0,0.0,0.0,0.0,0
+Wesley Moraes,Aston Villa,br BRA,FW,24.0,1,1.0,0.0,0.0,0.0,0.0,0.0,0
+Pontus Jansson,Brentford,se SWE,DF,30.0,37,3321.0,3.0,1.0,0.0,7.0,0.0,1
+Christian Nørgaard,Brentford,dk DEN,MF,27.0,35,3054.0,3.0,4.0,0.0,8.0,0.0,1
+Bryan Mbeumo,Brentford,fr FRA,FW,21.0,35,2905.0,4.0,7.0,1.0,4.0,0.0,1
+Rico Henry,Brentford,eng ENG,DF,24.0,34,2776.0,3.0,0.0,0.0,2.0,0.0,1
+Ivan Toney,Brentford,eng ENG,FW,25.0,33,2909.0,12.0,5.0,5.0,8.0,0.0,1
+Ethan Pinnock,Brentford,jm JAM,DF,28.0,32,2694.0,1.0,1.0,0.0,1.0,0.0,1
+Vitaly Janelt,Brentford,de GER,MF,23.0,31,2298.0,4.0,0.0,0.0,3.0,0.0,1
+Sergi Canós,Brentford,es ESP,DF,24.0,31,2083.0,3.0,2.0,0.0,8.0,1.0,1
+David Raya,Brentford,es ESP,GK,25.0,24,2160.0,0.0,0.0,0.0,1.0,0.0,0
+Kristoffer Ajer,Brentford,no NOR,DF,23.0,24,1995.0,1.0,3.0,0.0,5.0,0.0,1
+Mathias Jensen,Brentford,dk DEN,MF,25.0,31,1601.0,0.0,1.0,0.0,0.0,0.0,0
+Yoane Wissa,Brentford,cd COD,FW,24.0,30,1284.0,7.0,1.0,0.0,0.0,0.0,1
+Mads Roerslev,Brentford,dk DEN,DF,22.0,21,1240.0,1.0,1.0,0.0,1.0,0.0,1
+Álvaro Fernández,Brentford,es ESP,GK,23.0,12,1080.0,0.0,0.0,0.0,0.0,0.0,0
+Frank Onyeka,Brentford,ng NGA,MF,23.0,20,1045.0,0.0,0.0,0.0,4.0,0.0,0
+Christian Eriksen,Brentford,dk DEN,MF,29.0,11,939.0,1.0,4.0,0.0,1.0,0.0,1
+Shandon Baptiste,Brentford,gd GRN,MF,23.0,22,910.0,1.0,1.0,0.0,2.0,1.0,1
+Mads Bech Sørensen,Brentford,dk DEN,DF,22.0,11,835.0,0.0,0.0,0.0,3.0,0.0,0
+Mathias Jørgensen,Brentford,dk DEN,DF,31.0,8,518.0,1.0,0.0,0.0,2.0,0.0,1
+Saman Ghoddos,Brentford,ir IRN,DF,27.0,17,536.0,1.0,1.0,0.0,2.0,0.0,1
+Charlie Goode,Brentford,eng ENG,DF,25.0,6,450.0,0.0,0.0,0.0,3.0,0.0,0
+Josh Dasilva,Brentford,eng ENG,MF,22.0,9,257.0,0.0,0.0,0.0,0.0,1.0,0
+Jonas Lössl,Brentford,dk DEN,GK,32.0,2,180.0,0.0,0.0,0.0,0.0,0.0,0
+Dominic Thompson,Brentford,eng ENG,DF,21.0,2,146.0,0.0,0.0,0.0,0.0,0.0,0
+Marcus Forss,Brentford,fi FIN,FW,22.0,7,209.0,0.0,1.0,0.0,0.0,0.0,0
+Mads Bidstrup,Brentford,dk DEN,MF,20.0,4,41.0,0.0,0.0,0.0,0.0,0.0,0
+Tariqe Fosu,Brentford,gh GHA,DF,25.0,1,17.0,0.0,0.0,0.0,0.0,0.0,0
+Finley Stevens,Brentford,wls WAL,DF,18.0,1,15.0,0.0,0.0,0.0,0.0,0.0,0
+Nathan Young-Coombes,Brentford,eng ENG,FW,18.0,1,4.0,0.0,0.0,0.0,0.0,0.0,0
+Robert Sánchez,Brighton & Hove Albion,es ESP,GK,23.0,37,3329.0,0.0,0.0,0.0,3.0,1.0,0
+Marc Cucurella,Brighton & Hove Albion,es ESP,DF,23.0,35,3089.0,1.0,1.0,0.0,6.0,0.0,1
+Joël Veltman,Brighton & Hove Albion,nl NED,DF,29.0,34,2874.0,1.0,1.0,0.0,6.0,0.0,1
+Leandro Trossard,Brighton & Hove Albion,be BEL,FW,26.0,34,2805.0,8.0,3.0,1.0,2.0,0.0,1
+Lewis Dunk,Brighton & Hove Albion,eng ENG,DF,29.0,29,2573.0,1.0,0.0,0.0,3.0,1.0,1
+Neal Maupay,Brighton & Hove Albion,fr FRA,FW,24.0,32,2276.0,8.0,2.0,1.0,7.0,0.0,1
+Yves Bissouma,Brighton & Hove Albion,ml MLI,MF,24.0,26,2111.0,1.0,2.0,0.0,10.0,0.0,1
+Pascal Groß,Brighton & Hove Albion,de GER,MF,30.0,29,2038.0,2.0,4.0,0.0,1.0,0.0,1
+Alexis Mac Allister,Brighton & Hove Albion,ar ARG,MF,22.0,33,2123.0,5.0,2.0,2.0,4.0,0.0,1
+Jakub Moder,Brighton & Hove Albion,pl POL,MF,22.0,28,1701.0,0.0,3.0,0.0,1.0,0.0,0
+Adam Lallana,Brighton & Hove Albion,eng ENG,MF,33.0,24,1561.0,0.0,1.0,0.0,4.0,0.0,0
+Solly March,Brighton & Hove Albion,eng ENG,DF,27.0,31,1746.0,0.0,2.0,0.0,1.0,0.0,0
+Tariq Lamptey,Brighton & Hove Albion,eng ENG,DF,20.0,30,1561.0,0.0,2.0,0.0,4.0,0.0,0
+Adam Webster,Brighton & Hove Albion,eng ENG,DF,26.0,22,1434.0,2.0,0.0,0.0,5.0,0.0,1
+Danny Welbeck,Brighton & Hove Albion,eng ENG,FW,30.0,25,1478.0,6.0,2.0,0.0,0.0,0.0,1
+Shane Duffy,Brighton & Hove Albion,ie IRL,DF,29.0,18,1436.0,1.0,0.0,0.0,7.0,0.0,1
+Dan Burn,Brighton & Hove Albion,eng ENG,DF,29.0,13,1022.0,1.0,0.0,0.0,4.0,0.0,1
+Enock Mwepu,Brighton & Hove Albion,zm ZAM,MF,23.0,18,996.0,2.0,4.0,0.0,2.0,0.0,1
+Moisés Caicedo,Brighton & Hove Albion,ec ECU,MF,19.0,8,660.0,1.0,1.0,0.0,2.0,0.0,1
+Steven Alzate,Brighton & Hove Albion,co COL,MF,22.0,9,404.0,0.0,0.0,0.0,0.0,0.0,0
+Aaron Connolly,Brighton & Hove Albion,ie IRL,FW,21.0,4,156.0,0.0,0.0,0.0,0.0,0.0,0
+Jason Steele,Brighton & Hove Albion,eng ENG,GK,30.0,1,90.0,0.0,0.0,0.0,0.0,0.0,0
+Jeremy Sarmiento,Brighton & Hove Albion,ec ECU,FW,19.0,5,48.0,0.0,0.0,0.0,0.0,0.0,0
+Taylor Richards,Brighton & Hove Albion,eng ENG,MF,20.0,2,25.0,0.0,0.0,0.0,0.0,0.0,0
+Evan Ferguson,Brighton & Hove Albion,ie IRL,MF,16.0,1,23.0,0.0,0.0,0.0,0.0,0.0,0
+Jürgen Locadia,Brighton & Hove Albion,nl NED,FW,27.0,1,23.0,0.0,0.0,0.0,0.0,0.0,0
+Nick Pope,Burnley,eng ENG,GK,29.0,36,3240.0,0.0,0.0,0.0,1.0,0.0,0
+Dwight McNeil,Burnley,eng ENG,MF,21.0,38,3107.0,0.0,1.0,0.0,1.0,0.0,0
+James Tarkowski,Burnley,eng ENG,DF,28.0,35,3106.0,1.0,2.0,0.0,11.0,0.0,1
+Josh Brownhill,Burnley,eng ENG,MF,25.0,35,2955.0,2.0,3.0,0.0,10.0,0.0,1
+Charlie Taylor,Burnley,eng ENG,DF,27.0,31,2731.0,0.0,3.0,0.0,3.0,0.0,0
+Ashley Westwood,Burnley,eng ENG,MF,31.0,27,2287.0,0.0,3.0,0.0,7.0,0.0,0
+Ben Mee,Burnley,eng ENG,DF,31.0,21,1839.0,3.0,0.0,0.0,3.0,0.0,1
+Maxwel Cornet,Burnley,ci CIV,FW,24.0,26,1766.0,9.0,1.0,0.0,2.0,0.0,1
+Matthew Lowton,Burnley,eng ENG,DF,32.0,25,1772.0,1.0,2.0,0.0,3.0,1.0,1
+Jack Cork,Burnley,eng ENG,MF,32.0,20,1670.0,1.0,0.0,0.0,4.0,0.0,1
+Connor Roberts,Burnley,wls WAL,DF,25.0,21,1692.0,1.0,1.0,0.0,2.0,0.0,1
+Nathan Collins,Burnley,ie IRL,DF,20.0,19,1670.0,2.0,0.0,0.0,2.0,1.0,1
+Aaron Lennon,Burnley,eng ENG,MF,34.0,28,1551.0,2.0,0.0,0.0,2.0,0.0,1
+Wout Weghorst,Burnley,nl NED,FW,28.0,20,1450.0,2.0,3.0,0.0,3.0,0.0,1
+Chris Wood,Burnley,nz NZL,FW,29.0,17,1367.0,3.0,0.0,0.0,1.0,0.0,1
+Jay Rodriguez,Burnley,eng ENG,FW,32.0,29,1382.0,2.0,2.0,0.0,3.0,0.0,1
+Jóhann Berg Guðmundsson,Burnley,is ISL,MF,30.0,18,1102.0,0.0,1.0,0.0,2.0,0.0,0
+Ashley Barnes,Burnley,eng ENG,FW,31.0,23,808.0,1.0,0.0,1.0,4.0,0.0,1
+Erik Pieters,Burnley,nl NED,DF,32.0,12,730.0,0.0,1.0,0.0,1.0,0.0,0
+Mat?j Vydra,Burnley,cz CZE,FW,29.0,22,679.0,2.0,3.0,0.0,1.0,0.0,1
+Kevin Long,Burnley,ie IRL,DF,30.0,6,410.0,0.0,0.0,0.0,1.0,0.0,0
+Wayne Hennessey,Burnley,wls WAL,GK,34.0,2,180.0,0.0,0.0,0.0,0.0,0.0,0
+Dale Stephens,Burnley,eng ENG,MF,32.0,3,124.0,0.0,0.0,0.0,1.0,0.0,0
+Edouard Mendy,Chelsea,sn SEN,GK,29.0,34,3060.0,0.0,0.0,0.0,3.0,0.0,0
+Antonio Rüdiger,Chelsea,de GER,DF,28.0,34,3035.0,3.0,0.0,0.0,9.0,0.0,1
+Thiago Silva,Chelsea,br BRA,DF,36.0,32,2650.0,3.0,0.0,0.0,2.0,0.0,1
+Mason Mount,Chelsea,eng ENG,MF,22.0,32,2363.0,11.0,10.0,1.0,4.0,0.0,1
+Jorginho,Chelsea,it ITA,MF,29.0,29,2273.0,6.0,2.0,6.0,5.0,0.0,1
+Marcos Alonso,Chelsea,es ESP,DF,30.0,28,2167.0,4.0,4.0,0.0,8.0,0.0,1
+César Azpilicueta,Chelsea,es ESP,DF,31.0,27,2070.0,1.0,2.0,0.0,3.0,0.0,1
+Reece James,Chelsea,eng ENG,DF,21.0,26,1864.0,5.0,9.0,0.0,4.0,1.0,1
+Kai Havertz,Chelsea,de GER,FW,22.0,29,1809.0,8.0,3.0,0.0,3.0,0.0,1
+N'Golo Kanté,Chelsea,fr FRA,MF,30.0,26,1773.0,2.0,4.0,0.0,2.0,0.0,1
+Andreas Christensen,Chelsea,dk DEN,DF,25.0,19,1496.0,0.0,0.0,0.0,2.0,0.0,0
+Trevoh Chalobah,Chelsea,eng ENG,DF,22.0,20,1449.0,3.0,1.0,0.0,2.0,0.0,1
+Romelu Lukaku,Chelsea,be BEL,FW,28.0,26,1589.0,8.0,0.0,1.0,1.0,0.0,1
+Mateo Kova?i?,Chelsea,hr CRO,MF,27.0,25,1558.0,2.0,5.0,0.0,4.0,0.0,1
+Timo Werner,Chelsea,de GER,FW,25.0,21,1283.0,4.0,1.0,0.0,1.0,0.0,1
+Hakim Ziyech,Chelsea,ma MAR,FW,28.0,23,1319.0,4.0,3.0,0.0,3.0,0.0,1
+Ruben Loftus-Cheek,Chelsea,eng ENG,MF,25.0,24,1394.0,0.0,2.0,0.0,1.0,0.0,0
+Christian Pulisic,Chelsea,us USA,MF,22.0,22,1290.0,6.0,2.0,0.0,2.0,0.0,1
+Callum Hudson-Odoi,Chelsea,eng ENG,FW,20.0,15,962.0,1.0,2.0,0.0,1.0,0.0,1
+Malang Sarr,Chelsea,fr FRA,DF,22.0,8,546.0,0.0,0.0,0.0,2.0,0.0,0
+Ben Chilwell,Chelsea,eng ENG,DF,24.0,7,542.0,3.0,1.0,0.0,0.0,0.0,1
+Saúl Ñíguez,Chelsea,es ESP,MF,26.0,10,480.0,0.0,0.0,0.0,1.0,0.0,0
+Kepa Arrizabalaga,Chelsea,es ESP,GK,26.0,4,360.0,0.0,0.0,0.0,0.0,0.0,0
+Ross Barkley,Chelsea,eng ENG,MF,27.0,6,179.0,1.0,0.0,0.0,0.0,0.0,1
+Kenedy,Chelsea,br BRA,DF,25.0,1,58.0,0.0,1.0,0.0,0.0,0.0,0
+Emerson Palmieri,Chelsea,it ITA,DF,26.0,1,5.0,0.0,0.0,0.0,0.0,0.0,0
+Marc Guéhi,Crystal Palace,eng ENG,DF,21.0,36,3222.0,2.0,1.0,0.0,4.0,0.0,1
+Tyrick Mitchell,Crystal Palace,eng ENG,DF,21.0,36,3101.0,0.0,2.0,0.0,1.0,0.0,0
+Conor Gallagher,Crystal Palace,eng ENG,MF,21.0,34,2845.0,8.0,3.0,0.0,10.0,0.0,1
+Joachim Andersen,Crystal Palace,dk DEN,DF,25.0,34,2916.0,0.0,3.0,0.0,4.0,0.0,0
+Wilfried Zaha,Crystal Palace,ci CIV,FW,28.0,33,2760.0,14.0,1.0,5.0,6.0,1.0,1
+Vicente Guaita,Crystal Palace,es ESP,GK,34.0,30,2655.0,0.0,0.0,0.0,2.0,0.0,0
+Joel Ward,Crystal Palace,eng ENG,DF,31.0,28,2487.0,0.0,0.0,0.0,8.0,0.0,0
+Jordan Ayew,Crystal Palace,gh GHA,FW,29.0,31,2019.0,3.0,3.0,0.0,2.0,0.0,1
+Cheikhou Kouyaté,Crystal Palace,sn SEN,MF,31.0,27,1974.0,0.0,1.0,0.0,3.0,0.0,0
+Jeffrey Schlupp,Crystal Palace,gh GHA,MF,28.0,32,1851.0,4.0,1.0,0.0,1.0,0.0,1
+Odsonne Édouard,Crystal Palace,fr FRA,FW,23.0,28,1564.0,6.0,3.0,1.0,4.0,0.0,1
+James McArthur,Crystal Palace,sct SCO,MF,33.0,21,1439.0,0.0,3.0,0.0,4.0,0.0,0
+Nathaniel Clyne,Crystal Palace,eng ENG,DF,30.0,16,1351.0,0.0,1.0,0.0,1.0,0.0,0
+Jean-Philippe Mateta,Crystal Palace,fr FRA,FW,24.0,22,1145.0,5.0,1.0,0.0,2.0,0.0,1
+Will Hughes,Crystal Palace,eng ENG,MF,26.0,16,1053.0,0.0,1.0,0.0,6.0,0.0,0
+Michael Olise,Crystal Palace,fr FRA,FW,19.0,26,1141.0,2.0,5.0,0.0,4.0,0.0,1
+Christian Benteke,Crystal Palace,be BEL,FW,30.0,25,1145.0,4.0,1.0,0.0,3.0,0.0,1
+Luka Milivojevi?,Crystal Palace,rs SRB,MF,30.0,15,774.0,0.0,0.0,0.0,1.0,0.0,0
+Jack Butland,Crystal Palace,eng ENG,GK,28.0,9,765.0,0.0,0.0,0.0,0.0,0.0,0
+Eberechi Eze,Crystal Palace,eng ENG,MF,23.0,13,605.0,1.0,1.0,0.0,1.0,0.0,1
+James Tomkins,Crystal Palace,eng ENG,DF,32.0,8,547.0,1.0,0.0,0.0,2.0,0.0,1
+Jaïro Riedewald,Crystal Palace,nl NED,MF,24.0,3,118.0,0.0,0.0,0.0,0.0,0.0,0
+Jesuran Rak Sakyi,Crystal Palace,eng ENG,FW,18.0,2,80.0,0.0,0.0,0.0,0.0,0.0,0
+Nathan Ferguson,Crystal Palace,eng ENG,DF,20.0,1,9.0,0.0,0.0,0.0,0.0,0.0,0
+Jordan Pickford,Everton,eng ENG,GK,27.0,35,3150.0,0.0,0.0,0.0,2.0,0.0,0
+Michael Keane,Everton,eng ENG,DF,28.0,32,2792.0,3.0,2.0,0.0,4.0,1.0,1
+Séamus Coleman,Everton,ie IRL,DF,32.0,30,2656.0,1.0,0.0,0.0,4.0,0.0,1
+Abdoulaye Doucouré,Everton,ml MLI,MF,28.0,30,2537.0,2.0,4.0,0.0,6.0,0.0,1
+Richarlison,Everton,br BRA,FW,24.0,30,2523.0,10.0,5.0,3.0,9.0,0.0,1
+Demarai Gray,Everton,eng ENG,MF,25.0,34,2338.0,5.0,4.0,0.0,3.0,0.0,1
+Anthony Gordon,Everton,eng ENG,MF,20.0,35,2285.0,4.0,2.0,0.0,4.0,0.0,1
+Allan,Everton,br BRA,MF,30.0,28,2183.0,0.0,2.0,0.0,7.0,1.0,0
+Mason Holgate,Everton,eng ENG,DF,24.0,25,2134.0,2.0,1.0,0.0,7.0,1.0,1
+Ben Godfrey,Everton,eng ENG,DF,23.0,23,2029.0,0.0,0.0,0.0,6.0,0.0,0
+Alex Iwobi,Everton,ng NGA,MF,25.0,28,2035.0,2.0,2.0,0.0,1.0,0.0,1
+Andros Townsend,Everton,eng ENG,MF,30.0,21,1455.0,3.0,2.0,1.0,3.0,0.0,1
+Dominic Calvert-Lewin,Everton,eng ENG,FW,24.0,17,1283.0,5.0,2.0,2.0,2.0,0.0,1
+Lucas Digne,Everton,fr FRA,DF,28.0,13,1170.0,0.0,0.0,0.0,4.0,0.0,0
+Vitaliy Mykolenko,Everton,ua UKR,DF,22.0,13,1055.0,1.0,0.0,0.0,0.0,0.0,1
+Jonjoe Kenny,Everton,eng ENG,DF,24.0,15,1018.0,0.0,1.0,0.0,3.0,1.0,0
+Yerry Mina,Everton,co COL,DF,26.0,13,846.0,0.0,0.0,0.0,3.0,0.0,0
+Salomón Rondón,Everton,ve VEN,FW,31.0,20,790.0,1.0,1.0,0.0,3.0,1.0,1
+Fabian Delph,Everton,eng ENG,MF,31.0,11,662.0,0.0,0.0,0.0,2.0,0.0,0
+André Gomes,Everton,pt POR,MF,28.0,14,619.0,0.0,1.0,0.0,3.0,0.0,0
+Donny van de Beek,Everton,nl NED,MF,24.0,7,483.0,1.0,0.0,0.0,1.0,0.0,1
+Jarrad Branthwaite,Everton,eng ENG,DF,19.0,6,388.0,1.0,0.0,0.0,0.0,1.0,1
+Asmir Begovi?,Everton,ba BIH,GK,34.0,3,270.0,0.0,0.0,0.0,0.0,0.0,0
+Tom Davies,Everton,eng ENG,MF,23.0,6,234.0,1.0,0.0,0.0,1.0,0.0,1
+Dele Alli,Everton,eng ENG,MF,25.0,11,338.0,0.0,0.0,0.0,3.0,0.0,0
+Jean-Philippe Gbamin,Everton,ci CIV,MF,25.0,3,67.0,0.0,0.0,0.0,0.0,0.0,0
+Ellis Simms,Everton,eng ENG,FW,20.0,1,61.0,0.0,0.0,0.0,0.0,0.0,0
+Lewis Dobbin,Everton,eng ENG,FW,18.0,3,32.0,0.0,0.0,0.0,1.0,0.0,0
+Tyler Onyango,Everton,eng ENG,MF,18.0,3,28.0,0.0,0.0,0.0,0.0,0.0,0
+Isaac Price,Everton,nir NIR,MF,17.0,1,14.0,0.0,0.0,0.0,0.0,0.0,0
+Anwar El Ghazi,Everton,nl NED,FW,26.0,2,13.0,0.0,0.0,0.0,0.0,0.0,0
+Cenk Tosun,Everton,tr TUR,FW,30.0,1,7.0,0.0,0.0,0.0,0.0,0.0,0
+Moise Kean,Everton,it ITA,FW,21.0,1,1.0,0.0,0.0,0.0,0.0,0.0,0
+Illan Meslier,Leeds United,fr FRA,GK,21.0,38,3384.0,0.0,0.0,0.0,2.0,0.0,0
+Stuart Dallas,Leeds United,nir NIR,DF,30.0,34,2919.0,1.0,1.0,0.0,5.0,0.0,1
+Raphael Dias Belloli,Leeds United,br BRA,FW,24.0,35,2915.0,11.0,3.0,4.0,7.0,0.0,1
+Jack Harrison,Leeds United,eng ENG,FW,24.0,35,2639.0,8.0,1.0,0.0,3.0,0.0,1
+Daniel James,Leeds United,wls WAL,FW,23.0,32,2366.0,4.0,4.0,0.0,7.0,1.0,1
+Diego Llorente,Leeds United,es ESP,DF,27.0,28,2340.0,3.0,0.0,0.0,7.0,0.0,1
+Rodrigo,Leeds United,es ESP,MF,30.0,31,2265.0,6.0,1.0,1.0,9.0,0.0,1
+Luke Ayling,Leeds United,eng ENG,DF,29.0,26,2272.0,2.0,2.0,0.0,4.0,1.0,1
+Mateusz Klich,Leeds United,pl POL,MF,31.0,33,2073.0,1.0,2.0,0.0,5.0,0.0,1
+Pascal Struijk,Leeds United,nl NED,DF,21.0,29,2055.0,1.0,0.0,0.0,6.0,1.0,1
+Liam Cooper,Leeds United,sct SCO,DF,29.0,21,1814.0,0.0,1.0,0.0,5.0,0.0,0
+Junior Firpo,Leeds United,es ESP,DF,24.0,24,1711.0,0.0,2.0,0.0,11.0,0.0,0
+Kalvin Phillips,Leeds United,eng ENG,MF,25.0,20,1596.0,0.0,1.0,0.0,4.0,0.0,0
+Robin Koch,Leeds United,de GER,MF,25.0,20,1574.0,0.0,0.0,0.0,3.0,0.0,0
+Adam Forshaw,Leeds United,eng ENG,MF,29.0,22,1530.0,0.0,1.0,0.0,5.0,0.0,0
+Tyler Roberts,Leeds United,wls WAL,MF,22.0,23,987.0,1.0,1.0,0.0,5.0,0.0,1
+Jamie Shackleton,Leeds United,eng ENG,DF,21.0,14,709.0,0.0,0.0,0.0,4.0,0.0,0
+Patrick Bamford,Leeds United,eng ENG,FW,27.0,9,559.0,2.0,2.0,0.0,2.0,0.0,1
+Joe Gelhardt,Leeds United,eng ENG,FW,19.0,20,746.0,2.0,2.0,0.0,4.0,0.0,1
+Sam Greenwood,Leeds United,eng ENG,MF,19.0,7,237.0,0.0,2.0,0.0,0.0,0.0,0
+Lewis Bate,Leeds United,eng ENG,MF,18.0,3,146.0,0.0,0.0,0.0,0.0,0.0,0
+Charlie Cresswell,Leeds United,eng ENG,DF,18.0,5,141.0,0.0,0.0,0.0,1.0,0.0,0
+Cody Drameh,Leeds United,eng ENG,DF,19.0,3,128.0,0.0,0.0,0.0,1.0,0.0,0
+Leo Fuhr Hjelde,Leeds United,no NOR,DF,17.0,2,150.0,0.0,0.0,0.0,0.0,0.0,0
+Crysencio Summerville,Leeds United,nl NED,MF,19.0,6,130.0,0.0,0.0,0.0,0.0,0.0,0
+Kristoffer Klaesson,Leeds United,no NOR,GK,20.0,1,36.0,0.0,0.0,0.0,0.0,0.0,0
+Hélder Costa,Leeds United,ao ANG,MF,27.0,1,22.0,0.0,0.0,0.0,0.0,0.0,0
+Liam McCarron,Leeds United,sct SCO,FW,20.0,1,10.0,0.0,0.0,0.0,0.0,0.0,0
+Stuart McKinstry,Leeds United,sct SCO,MF,18.0,1,4.0,0.0,0.0,0.0,0.0,0.0,0
+Kasper Schmeichel,Leicester City,dk DEN,GK,34.0,37,3330.0,0.0,0.0,0.0,2.0,0.0,0
+Youri Tielemans,Leicester City,be BEL,MF,24.0,32,2631.0,6.0,4.0,2.0,3.0,0.0,1
+Ça?lar Söyüncü,Leicester City,tr TUR,DF,25.0,28,2497.0,1.0,0.0,0.0,5.0,0.0,1
+James Maddison,Leicester City,eng ENG,MF,24.0,35,2459.0,12.0,8.0,0.0,3.0,0.0,1
+Harvey Barnes,Leicester City,eng ENG,FW,23.0,32,2101.0,6.0,10.0,0.0,2.0,0.0,1
+Daniel Amartey,Leicester City,gh GHA,DF,26.0,28,2123.0,0.0,0.0,0.0,4.0,0.0,0
+Kiernan Dewsbury Hall,Leicester City,eng ENG,MF,22.0,28,2105.0,1.0,3.0,0.0,4.0,0.0,1
+Timothy Castagne,Leicester City,be BEL,DF,25.0,27,2127.0,1.0,0.0,0.0,1.0,0.0,1
+Luke Thomas,Leicester City,eng ENG,DF,20.0,22,1912.0,0.0,1.0,0.0,2.0,0.0,0
+Jamie Vardy,Leicester City,eng ENG,FW,34.0,25,1806.0,15.0,2.0,0.0,2.0,0.0,1
+Wilfred Ndidi,Leicester City,ng NGA,MF,24.0,19,1618.0,0.0,0.0,0.0,4.0,0.0,0
+Ademola Lookman,Leicester City,ng NGA,FW,23.0,26,1453.0,6.0,0.0,0.0,2.0,0.0,1
+Jonny Evans,Leicester City,nir NIR,DF,33.0,18,1348.0,1.0,1.0,0.0,3.0,0.0,1
+Kelechi Iheanacho,Leicester City,ng NGA,FW,24.0,26,1264.0,4.0,5.0,0.0,1.0,0.0,1
+Patson Daka,Leicester City,zm ZAM,FW,22.0,23,1159.0,5.0,3.0,0.0,2.0,0.0,1
+Ricardo Pereira,Leicester City,pt POR,DF,27.0,14,991.0,1.0,3.0,0.0,3.0,0.0,1
+Boubakary Soumaré,Leicester City,fr FRA,MF,22.0,19,1102.0,0.0,1.0,0.0,0.0,0.0,0
+Nampalys Mendy,Leicester City,sn SEN,MF,29.0,14,1032.0,0.0,0.0,0.0,3.0,0.0,0
+Marc Albrighton,Leicester City,eng ENG,FW,31.0,17,1132.0,1.0,2.0,0.0,3.0,0.0,1
+James Justin,Leicester City,eng ENG,DF,23.0,13,998.0,0.0,0.0,0.0,0.0,0.0,0
+Wesley Fofana,Leicester City,fr FRA,DF,20.0,7,630.0,0.0,0.0,0.0,2.0,0.0,0
+Jannik Vestergaard,Leicester City,dk DEN,DF,28.0,10,567.0,0.0,0.0,0.0,2.0,0.0,0
+Ayoze Pérez,Leicester City,es ESP,MF,28.0,14,445.0,2.0,3.0,0.0,0.0,1.0,1
+Ryan Bertrand,Leicester City,eng ENG,DF,31.0,4,337.0,0.0,0.0,0.0,1.0,0.0,0
+Hamza Choudhury,Leicester City,eng ENG,DF,23.0,6,285.0,0.0,0.0,0.0,1.0,0.0,0
+Danny Ward,Leicester City,wls WAL,GK,28.0,1,90.0,0.0,0.0,0.0,0.0,0.0,0
+Lewis Brunt,Leicester City,eng ENG,MF,20.0,1,24.0,0.0,0.0,0.0,0.0,0.0,0
+Kasey McAteer,Leicester City,eng ENG,FW,19.0,1,3.0,0.0,0.0,0.0,0.0,0.0,0
+Alisson,Liverpool,br BRA,GK,28.0,36,3240.0,0.0,1.0,0.0,0.0,0.0,0
+Virgil van Dijk,Liverpool,nl NED,DF,30.0,34,3060.0,3.0,1.0,0.0,3.0,0.0,1
+Trent Alexander-Arnold,Liverpool,eng ENG,DF,22.0,32,2853.0,2.0,12.0,0.0,2.0,0.0,1
+Sadio Mané,Liverpool,sn SEN,FW,29.0,34,2819.0,16.0,2.0,0.0,5.0,0.0,1
+Joël Matip,Liverpool,cm CMR,DF,29.0,31,2790.0,3.0,3.0,0.0,2.0,0.0,1
+Mohamed Salah,Liverpool,eg EGY,FW,29.0,35,2762.0,23.0,13.0,5.0,1.0,0.0,1
+Jordan Henderson,Liverpool,eng ENG,MF,31.0,35,2597.0,2.0,5.0,0.0,3.0,0.0,1
+Andrew Robertson,Liverpool,sct SCO,DF,27.0,29,2537.0,3.0,10.0,0.0,5.0,1.0,1
+Diogo Jota,Liverpool,pt POR,FW,24.0,35,2364.0,15.0,4.0,0.0,3.0,0.0,1
+Fabinho,Liverpool,br BRA,MF,27.0,29,2314.0,5.0,1.0,2.0,7.0,0.0,1
+Thiago Alcántara,Liverpool,es ESP,MF,30.0,25,1534.0,1.0,4.0,0.0,2.0,0.0,1
+Naby Keïta,Liverpool,gn GUI,MF,26.0,23,1173.0,3.0,1.0,0.0,3.0,0.0,1
+Ibrahima Konaté,Liverpool,fr FRA,DF,22.0,11,990.0,0.0,0.0,0.0,2.0,0.0,0
+Luis Díaz,Liverpool,co COL,FW,24.0,13,958.0,4.0,3.0,0.0,0.0,0.0,1
+Roberto Firmino,Liverpool,br BRA,FW,29.0,20,990.0,5.0,4.0,0.0,3.0,0.0,1
+Curtis Jones,Liverpool,eng ENG,MF,20.0,15,851.0,1.0,1.0,0.0,0.0,0.0,1
+Kostas Tsimikas,Liverpool,gr GRE,DF,25.0,13,877.0,0.0,2.0,0.0,3.0,0.0,0
+James Milner,Liverpool,eng ENG,MF,35.0,24,853.0,0.0,1.0,0.0,2.0,0.0,0
+Alex Oxlade-Chamberlain,Liverpool,eng ENG,MF,27.0,17,785.0,2.0,1.0,0.0,0.0,0.0,1
+Harvey Elliott,Liverpool,eng ENG,MF,18.0,6,346.0,0.0,0.0,0.0,0.0,0.0,0
+Joe Gomez,Liverpool,eng ENG,DF,24.0,8,331.0,0.0,1.0,0.0,2.0,0.0,0
+Caoimhín Kelleher,Liverpool,ie IRL,GK,22.0,2,180.0,0.0,0.0,0.0,0.0,0.0,0
+Takumi Minamino,Liverpool,jp JPN,FW,26.0,11,186.0,3.0,0.0,0.0,1.0,0.0,1
+Tyler Morton,Liverpool,eng ENG,MF,18.0,2,66.0,0.0,0.0,0.0,1.0,0.0,0
+Divock Origi,Liverpool,be BEL,FW,26.0,7,133.0,3.0,0.0,0.0,0.0,0.0,1
+Kaide Gordon,Liverpool,eng ENG,FW,16.0,1,9.0,0.0,0.0,0.0,0.0,0.0,0
+Neco Williams,Liverpool,wls WAL,DF,20.0,1,8.0,0.0,1.0,0.0,0.0,0.0,0
+Ederson,Manchester City,br BRA,GK,27.0,37,3330.0,0.0,0.0,0.0,3.0,0.0,0
+João Cancelo,Manchester City,pt POR,DF,27.0,36,3227.0,1.0,7.0,0.0,7.0,0.0,1
+Rodri,Manchester City,es ESP,MF,25.0,33,2884.0,7.0,2.0,0.0,5.0,0.0,1
+Bernardo Silva,Manchester City,pt POR,MF,26.0,35,2857.0,8.0,4.0,0.0,6.0,0.0,1
+Aymeric Laporte,Manchester City,es ESP,DF,27.0,33,2828.0,4.0,0.0,0.0,5.0,1.0,1
+Rúben Dias,Manchester City,pt POR,DF,24.0,29,2402.0,2.0,4.0,0.0,5.0,0.0,1
+Kevin De Bruyne,Manchester City,be BEL,MF,30.0,30,2201.0,15.0,8.0,0.0,2.0,0.0,1
+Phil Foden,Manchester City,eng ENG,FW,21.0,28,2128.0,9.0,5.0,0.0,1.0,0.0,1
+Raheem Sterling,Manchester City,eng ENG,FW,26.0,30,2128.0,13.0,5.0,2.0,1.0,0.0,1
+Jack Grealish,Manchester City,eng ENG,FW,25.0,26,1914.0,3.0,3.0,0.0,3.0,0.0,1
+Gabriel Jesus,Manchester City,br BRA,FW,24.0,28,1877.0,8.0,8.0,1.0,1.0,0.0,1
+?lkay Gündo?an,Manchester City,de GER,MF,30.0,27,1857.0,8.0,4.0,0.0,1.0,0.0,1
+Kyle Walker,Manchester City,eng ENG,DF,31.0,20,1755.0,0.0,2.0,0.0,1.0,0.0,0
+Riyad Mahrez,Manchester City,dz ALG,FW,30.0,28,1498.0,11.0,5.0,4.0,0.0,0.0,1
+John Stones,Manchester City,eng ENG,DF,27.0,14,1119.0,1.0,0.0,0.0,0.0,0.0,1
+Oleksandr Zinchenko,Manchester City,ua UKR,DF,24.0,15,1047.0,0.0,4.0,0.0,0.0,0.0,0
+Fernandinho,Manchester City,br BRA,MF,36.0,19,964.0,2.0,1.0,0.0,1.0,0.0,1
+Nathan Aké,Manchester City,nl NED,DF,26.0,14,923.0,2.0,0.0,0.0,0.0,0.0,1
+Ferrán Torres,Manchester City,es ESP,FW,21.0,4,303.0,2.0,1.0,0.0,0.0,0.0,1
+Cole Palmer,Manchester City,eng ENG,FW,19.0,4,123.0,0.0,0.0,0.0,0.0,0.0,0
+Zack Steffen,Manchester City,us USA,GK,26.0,1,90.0,0.0,0.0,0.0,0.0,0.0,0
+Benjamin Mendy,Manchester City,fr FRA,DF,27.0,1,78.0,0.0,0.0,0.0,0.0,0.0,0
+James Mcatee,Manchester City,eng ENG,MF,18.0,2,20.0,0.0,0.0,0.0,0.0,0.0,0
+Liam Delap,Manchester City,eng ENG,FW,18.0,1,10.0,0.0,0.0,0.0,0.0,0.0,0
+Kayky Chagas,Manchester City,br BRA,FW,18.0,1,7.0,0.0,0.0,0.0,0.0,0.0,0
+CJ Egan-Riley,Manchester City,eng ENG,DF,18.0,1,4.0,0.0,0.0,0.0,0.0,0.0,0
+David de Gea,Manchester United,es ESP,GK,30.0,38,3420.0,0.0,0.0,0.0,0.0,0.0,0
+Bruno Fernandes,Manchester United,pt POR,MF,26.0,36,3111.0,10.0,6.0,0.0,10.0,0.0,1
+Harry Maguire,Manchester United,eng ENG,DF,28.0,30,2515.0,1.0,0.0,0.0,9.0,1.0,1
+Scott McTominay,Manchester United,sct SCO,MF,24.0,30,2387.0,1.0,1.0,0.0,9.0,0.0,1
+Cristiano Ronaldo,Manchester United,pt POR,FW,36.0,30,2456.0,18.0,3.0,3.0,8.0,0.0,1
+Victor Lindelöf,Manchester United,se SWE,DF,27.0,28,2355.0,0.0,2.0,0.0,4.0,0.0,0
+Fred,Manchester United,br BRA,MF,28.0,28,2028.0,4.0,4.0,0.0,5.0,0.0,1
+Jadon Sancho,Manchester United,eng ENG,FW,21.0,29,1900.0,3.0,3.0,0.0,0.0,0.0,1
+Raphaël Varane,Manchester United,fr FRA,DF,28.0,22,1831.0,1.0,1.0,0.0,0.0,0.0,1
+Aaron Wan-Bissaka,Manchester United,eng ENG,DF,23.0,20,1793.0,0.0,0.0,0.0,2.0,0.0,0
+Diogo Dalot,Manchester United,pt POR,DF,22.0,24,1801.0,0.0,0.0,0.0,4.0,0.0,0
+Luke Shaw,Manchester United,eng ENG,DF,26.0,20,1601.0,0.0,3.0,0.0,8.0,0.0,0
+Alex Telles,Manchester United,br BRA,DF,28.0,21,1660.0,0.0,4.0,0.0,1.0,0.0,0
+Nemanja Mati?,Manchester United,rs SRB,MF,32.0,23,1382.0,0.0,4.0,0.0,3.0,0.0,0
+Paul Pogba,Manchester United,fr FRA,MF,28.0,20,1349.0,1.0,9.0,0.0,7.0,1.0,1
+Mason Greenwood,Manchester United,eng ENG,FW,19.0,18,1271.0,5.0,1.0,0.0,1.0,0.0,1
+Anthony Elanga,Manchester United,se SWE,FW,19.0,21,1214.0,2.0,2.0,0.0,0.0,0.0,1
+Marcus Rashford,Manchester United,eng ENG,FW,23.0,25,1235.0,4.0,2.0,0.0,2.0,0.0,1
+Edinson Cavani,Manchester United,uy URU,FW,34.0,15,766.0,2.0,1.0,0.0,0.0,0.0,1
+Eric Bailly,Manchester United,ci CIV,DF,27.0,4,217.0,0.0,0.0,0.0,1.0,0.0,0
+Jesse Lingard,Manchester United,eng ENG,FW,28.0,16,367.0,2.0,0.0,0.0,1.0,0.0,1
+Juan Mata,Manchester United,es ESP,MF,33.0,7,235.0,0.0,0.0,0.0,0.0,0.0,0
+Anthony Martial,Manchester United,fr FRA,FW,25.0,8,212.0,1.0,0.0,0.0,0.0,0.0,1
+Phil Jones,Manchester United,eng ENG,DF,29.0,4,163.0,0.0,0.0,0.0,0.0,0.0,0
+Daniel James,Manchester United,wls WAL,FW,23.0,2,126.0,0.0,0.0,0.0,0.0,0.0,0
+Hannibal Mejbri,Manchester United,tn TUN,FW,18.0,2,68.0,0.0,0.0,0.0,2.0,0.0,0
+Donny van de Beek,Manchester United,nl NED,MF,24.0,8,75.0,1.0,0.0,0.0,0.0,0.0,1
+Shola Shoretire,Manchester United,eng ENG,FW,17.0,1,16.0,0.0,0.0,0.0,0.0,0.0,0
+Alejandro Garnacho,Manchester United,es ESP,FW,17.0,2,13.0,0.0,0.0,0.0,0.0,0.0,0
+Allan Saint-Maximin,Newcastle United,fr FRA,FW,24.0,35,2804.0,5.0,5.0,0.0,6.0,0.0,1
+Joelinton,Newcastle United,br BRA,MF,24.0,35,2558.0,4.0,1.0,0.0,8.0,0.0,1
+Martin Dúbravka,Newcastle United,sk SVK,GK,32.0,26,2340.0,0.0,0.0,0.0,1.0,0.0,0
+Fabian Schär,Newcastle United,ch SUI,DF,29.0,25,2158.0,2.0,2.0,0.0,4.0,0.0,1
+Joe Willock,Newcastle United,eng ENG,MF,21.0,29,2038.0,2.0,0.0,0.0,0.0,0.0,1
+Jamaal Lascelles,Newcastle United,eng ENG,DF,27.0,26,2058.0,1.0,0.0,0.0,5.0,0.0,1
+Jonjo Shelvey,Newcastle United,eng ENG,MF,29.0,24,1983.0,2.0,1.0,0.0,7.0,1.0,1
+Miguel Almirón,Newcastle United,py PAR,MF,27.0,30,1716.0,1.0,0.0,0.0,2.0,0.0,1
+Emil Krafth,Newcastle United,se SWE,DF,26.0,20,1634.0,0.0,1.0,0.0,5.0,0.0,0
+Ryan Fraser,Newcastle United,sct SCO,FW,27.0,27,1465.0,2.0,3.0,0.0,3.0,0.0,1
+Dan Burn,Newcastle United,eng ENG,DF,29.0,16,1440.0,0.0,1.0,0.0,4.0,0.0,0
+Matt Targett,Newcastle United,eng ENG,DF,25.0,16,1440.0,0.0,0.0,0.0,1.0,0.0,0
+Callum Wilson,Newcastle United,eng ENG,FW,29.0,18,1386.0,8.0,0.0,2.0,4.0,0.0,1
+Sean Longstaff,Newcastle United,eng ENG,MF,23.0,24,1464.0,1.0,1.0,0.0,1.0,0.0,1
+Chris Wood,Newcastle United,nz NZL,FW,29.0,17,1327.0,2.0,0.0,1.0,0.0,0.0,1
+Javier Manquillo,Newcastle United,es ESP,DF,27.0,19,1257.0,1.0,2.0,0.0,5.0,0.0,1
+Matt Ritchie,Newcastle United,sct SCO,DF,31.0,18,1337.0,0.0,2.0,0.0,5.0,0.0,0
+Jacob Murphy,Newcastle United,eng ENG,FW,26.0,33,1473.0,1.0,2.0,0.0,4.0,0.0,1
+Ciaran Clark,Newcastle United,ie IRL,DF,31.0,13,1014.0,0.0,1.0,0.0,2.0,1.0,0
+Isaac Hayden,Newcastle United,eng ENG,MF,26.0,14,1002.0,1.0,0.0,0.0,5.0,0.0,1
+Bruno Guimarães,Newcastle United,br BRA,MF,23.0,17,1034.0,5.0,1.0,0.0,4.0,0.0,1
+Karl Darlow,Newcastle United,eng ENG,GK,30.0,8,720.0,0.0,0.0,0.0,1.0,0.0,0
+Federico Fernández,Newcastle United,ar ARG,DF,32.0,7,523.0,0.0,0.0,0.0,0.0,0.0,0
+Kieran Trippier,Newcastle United,eng ENG,DF,30.0,6,429.0,2.0,0.0,0.0,0.0,0.0,1
+Freddie Woodman,Newcastle United,eng ENG,GK,24.0,4,360.0,0.0,0.0,0.0,0.0,0.0,0
+Jamal Lewis,Newcastle United,nir NIR,DF,23.0,5,262.0,0.0,0.0,0.0,1.0,0.0,0
+Paul Dummett,Newcastle United,wls WAL,DF,29.0,3,198.0,0.0,0.0,0.0,2.0,0.0,0
+Jeff Hendrick,Newcastle United,ie IRL,MF,29.0,3,72.0,1.0,0.0,0.0,0.0,0.0,1
+Dwight Gayle,Newcastle United,eng ENG,FW,30.0,8,38.0,0.0,0.0,0.0,1.0,0.0,0
+Teemu Pukki,Norwich City,fi FIN,FW,31.0,37,3253.0,11.0,3.0,3.0,4.0,0.0,1
+Grant Hanley,Norwich City,sct SCO,DF,29.0,33,2897.0,1.0,0.0,0.0,2.0,0.0,1
+Max Aarons,Norwich City,eng ENG,DF,21.0,34,2881.0,0.0,2.0,0.0,8.0,0.0,0
+Kenny McLean,Norwich City,sct SCO,MF,29.0,31,2706.0,1.0,0.0,0.0,3.0,0.0,1
+Tim Krul,Norwich City,nl NED,GK,33.0,29,2610.0,0.0,0.0,0.0,1.0,0.0,0
+Ben Gibson,Norwich City,eng ENG,DF,28.0,28,2494.0,0.0,0.0,0.0,5.0,1.0,0
+Pierre Lees-Melou,Norwich City,fr FRA,MF,28.0,33,2265.0,1.0,0.0,0.0,5.0,0.0,1
+Milot Rashica,Norwich City,xk KVX,FW,25.0,31,2229.0,1.0,2.0,0.0,0.0,0.0,1
+Brandon Williams,Norwich City,eng ENG,DF,20.0,26,2120.0,0.0,1.0,0.0,8.0,0.0,0
+Billy Gilmour,Norwich City,sct SCO,MF,20.0,24,1855.0,0.0,1.0,0.0,2.0,0.0,0
+Mathias Normann,Norwich City,no NOR,MF,25.0,23,1645.0,1.0,2.0,0.0,6.0,0.0,1
+Josh Sargent,Norwich City,us USA,FW,21.0,26,1572.0,2.0,1.0,0.0,1.0,0.0,1
+Dimitris Giannoulis,Norwich City,gr GRE,DF,25.0,18,1169.0,0.0,1.0,0.0,2.0,0.0,0
+Sam Byram,Norwich City,eng ENG,DF,27.0,15,1027.0,0.0,0.0,0.0,3.0,0.0,0
+Ozan Kabak,Norwich City,tr TUR,DF,21.0,11,922.0,0.0,0.0,0.0,2.0,0.0,0
+Kieran Dowell,Norwich City,eng ENG,FW,23.0,19,912.0,1.0,1.0,0.0,0.0,0.0,1
+Angus Gunn,Norwich City,eng ENG,GK,25.0,9,810.0,0.0,0.0,0.0,0.0,0.0,0
+Lukas Rupp,Norwich City,de GER,MF,30.0,19,769.0,0.0,0.0,0.0,0.0,0.0,0
+Adam Idah,Norwich City,ie IRL,FW,20.0,17,625.0,1.0,1.0,0.0,0.0,0.0,1
+Jakob Sørensen,Norwich City,dk DEN,MF,23.0,10,604.0,0.0,0.0,0.0,0.0,0.0,0
+Przemys?aw P?acheta,Norwich City,pl POL,FW,23.0,12,504.0,0.0,0.0,0.0,1.0,0.0,0
+Todd Cantwell,Norwich City,eng ENG,FW,23.0,8,441.0,0.0,0.0,0.0,2.0,0.0,0
+Andrew Omobamidele,Norwich City,ie IRL,DF,19.0,5,382.0,1.0,0.0,0.0,1.0,0.0,1
+Christos Tzolis,Norwich City,gr GRE,FW,19.0,14,336.0,0.0,0.0,0.0,0.0,0.0,0
+Christoph Zimmermann,Norwich City,de GER,DF,28.0,3,157.0,0.0,0.0,0.0,0.0,0.0,0
+Tony Springett,Norwich City,eng ENG,FW,18.0,3,141.0,0.0,0.0,0.0,1.0,0.0,0
+Jon Rowe,Norwich City,eng ENG,FW,18.0,13,223.0,0.0,1.0,0.0,0.0,0.0,0
+Bali Mumba,Norwich City,eng ENG,DF,19.0,1,45.0,0.0,0.0,0.0,0.0,0.0,0
+James Ward-Prowse,Southampton,eng ENG,MF,26.0,36,3215.0,10.0,5.0,4.0,3.0,1.0,1
+Oriol Romeu,Southampton,es ESP,MF,29.0,36,2889.0,2.0,2.0,0.0,9.0,0.0,1
+Mohammed Salisu,Southampton,gh GHA,DF,22.0,34,2972.0,0.0,0.0,0.0,10.0,1.0,0
+Jan Bednarek,Southampton,pl POL,DF,25.0,31,2629.0,4.0,0.0,0.0,10.0,0.0,1
+Kyle Walker-Peters,Southampton,eng ENG,DF,24.0,32,2633.0,1.0,2.0,0.0,5.0,0.0,1
+Valentino Livramento,Southampton,eng ENG,DF,18.0,28,2202.0,1.0,1.0,0.0,2.0,0.0,1
+Mohamed Elyounoussi,Southampton,no NOR,MF,26.0,30,2042.0,4.0,2.0,0.0,4.0,0.0,1
+Che Adams,Southampton,sct SCO,FW,25.0,30,2039.0,7.0,3.0,0.0,0.0,0.0,1
+Armando Broja,Southampton,al ALB,FW,19.0,32,1975.0,6.0,0.0,0.0,2.0,0.0,1
+Nathan Redmond,Southampton,eng ENG,MF,27.0,27,1833.0,1.0,5.0,0.0,0.0,0.0,1
+Fraser Forster,Southampton,eng ENG,GK,33.0,19,1710.0,0.0,0.0,0.0,1.0,0.0,0
+Romain Perraud,Southampton,fr FRA,DF,23.0,20,1623.0,0.0,1.0,0.0,3.0,0.0,0
+Alex McCarthy,Southampton,eng ENG,GK,31.0,17,1530.0,0.0,0.0,0.0,1.0,0.0,0
+Adam Armstrong,Southampton,eng ENG,FW,24.0,23,1413.0,2.0,2.0,0.0,1.0,0.0,1
+Stuart Armstrong,Southampton,sct SCO,MF,29.0,25,1473.0,2.0,0.0,0.0,1.0,0.0,1
+Ibrahima Diallo,Southampton,fr FRA,MF,22.0,23,1023.0,0.0,2.0,0.0,1.0,0.0,0
+Nathan Tella,Southampton,eng ENG,MF,22.0,14,804.0,0.0,1.0,0.0,2.0,0.0,0
+Lyanco,Southampton,br BRA,DF,24.0,15,911.0,0.0,0.0,0.0,2.0,0.0,0
+Jack Stephens,Southampton,eng ENG,DF,27.0,11,811.0,0.0,0.0,0.0,3.0,0.0,0
+Moussa Djenepo,Southampton,ml MLI,MF,23.0,12,457.0,0.0,0.0,0.0,3.0,0.0,0
+Theo Walcott,Southampton,eng ENG,MF,32.0,9,379.0,0.0,0.0,0.0,0.0,0.0,0
+Yan Valery,Southampton,fr FRA,DF,22.0,5,370.0,0.0,0.0,0.0,0.0,0.0,0
+Shane Long,Southampton,ie IRL,FW,34.0,13,308.0,1.0,0.0,0.0,1.0,0.0,1
+Willy Caballero,Southampton,ar ARG,GK,39.0,2,180.0,0.0,0.0,0.0,1.0,0.0,0
+William Smallbone,Southampton,ie IRL,MF,21.0,4,133.0,0.0,0.0,0.0,0.0,0.0,0
+Hugo Lloris,Tottenham Hotspur,fr FRA,GK,34.0,38,3420.0,0.0,0.0,0.0,2.0,0.0,0
+Harry Kane,Tottenham Hotspur,eng ENG,FW,28.0,37,3232.0,17.0,9.0,4.0,5.0,0.0,1
+Pierre Højbjerg,Tottenham Hotspur,dk DEN,MF,25.0,36,3196.0,2.0,2.0,0.0,3.0,0.0,1
+Eric Dier,Tottenham Hotspur,eng ENG,DF,27.0,35,3071.0,0.0,0.0,0.0,1.0,0.0,0
+Son Heung-min,Tottenham Hotspur,kr KOR,FW,29.0,35,3006.0,23.0,7.0,0.0,2.0,0.0,1
+Ben Davies,Tottenham Hotspur,wls WAL,DF,28.0,29,2538.0,1.0,1.0,0.0,6.0,0.0,1
+Emerson,Tottenham Hotspur,br BRA,DF,22.0,31,2286.0,1.0,1.0,0.0,5.0,0.0,1
+Sergio Reguilón,Tottenham Hotspur,es ESP,DF,24.0,25,1916.0,2.0,3.0,0.0,4.0,0.0,1
+Cristian Romero,Tottenham Hotspur,ar ARG,DF,23.0,22,1844.0,1.0,0.0,0.0,8.0,0.0,1
+Lucas Moura,Tottenham Hotspur,br BRA,FW,28.0,34,1775.0,2.0,6.0,0.0,4.0,0.0,1
+Davinson Sánchez,Tottenham Hotspur,co COL,DF,25.0,23,1631.0,2.0,0.0,0.0,4.0,0.0,1
+Rodrigo Bentancur,Tottenham Hotspur,uy URU,MF,24.0,17,1361.0,0.0,4.0,0.0,5.0,0.0,0
+Oliver Skipp,Tottenham Hotspur,eng ENG,MF,20.0,18,1350.0,0.0,0.0,0.0,6.0,0.0,0
+Dejan Kulusevski,Tottenham Hotspur,se SWE,MF,21.0,18,1261.0,5.0,8.0,0.0,3.0,0.0,1
+Ryan Sessegnon,Tottenham Hotspur,eng ENG,DF,21.0,15,1047.0,0.0,2.0,0.0,2.0,0.0,0
+Japhet Tanganga,Tottenham Hotspur,eng ENG,DF,22.0,11,735.0,0.0,0.0,0.0,4.0,1.0,0
+Harry Winks,Tottenham Hotspur,eng ENG,MF,25.0,19,912.0,0.0,1.0,0.0,2.0,0.0,0
+Matt Doherty,Tottenham Hotspur,ie IRL,DF,29.0,15,875.0,2.0,4.0,0.0,0.0,0.0,1
+Dele Alli,Tottenham Hotspur,eng ENG,MF,25.0,10,657.0,1.0,0.0,1.0,1.0,0.0,1
+Tanguy Ndombele,Tottenham Hotspur,fr FRA,MF,24.0,9,484.0,1.0,1.0,0.0,1.0,0.0,1
+Steven Bergwijn,Tottenham Hotspur,nl NED,FW,23.0,25,565.0,3.0,1.0,0.0,1.0,0.0,1
+Giovani Lo Celso,Tottenham Hotspur,ar ARG,MF,25.0,9,238.0,0.0,0.0,0.0,0.0,0.0,0
+Bryan,Tottenham Hotspur,es ESP,FW,20.0,9,94.0,0.0,0.0,0.0,0.0,0.0,0
+Joe Rodon,Tottenham Hotspur,wls WAL,DF,23.0,3,89.0,0.0,0.0,0.0,0.0,0.0,0
+Dane Scarlett,Tottenham Hotspur,eng ENG,MF,17.0,1,4.0,0.0,0.0,0.0,0.0,0.0,0
+Moussa Sissoko,Watford,fr FRA,MF,31.0,36,3220.0,2.0,1.0,0.0,5.0,0.0,1
+Emmanuel Dennis,Watford,ng NGA,FW,23.0,33,2581.0,10.0,6.0,0.0,9.0,1.0,1
+Craig Cathcart,Watford,nir NIR,DF,32.0,31,2396.0,0.0,1.0,0.0,3.0,0.0,0
+Joshua King,Watford,no NOR,FW,29.0,32,2248.0,5.0,3.0,1.0,5.0,0.0,1
+Ben Foster,Watford,eng ENG,GK,38.0,26,2340.0,0.0,1.0,0.0,0.0,0.0,0
+Kiko Femenía,Watford,es ESP,DF,30.0,27,2142.0,0.0,5.0,0.0,2.0,0.0,0
+Juraj Kucka,Watford,sk SVK,MF,34.0,26,1920.0,1.0,1.0,0.0,5.0,1.0,1
+Ismaila Sarr,Watford,sn SEN,FW,23.0,22,1861.0,5.0,2.0,0.0,2.0,0.0,1
+Tom Cleverley,Watford,eng ENG,MF,31.0,28,1616.0,0.0,2.0,0.0,2.0,0.0,0
+Samir Santos,Watford,br BRA,DF,26.0,19,1673.0,0.0,0.0,0.0,4.0,0.0,0
+Hassane Kamara,Watford,ci CIV,DF,27.0,19,1623.0,1.0,0.0,0.0,5.0,1.0,1
+Imran Louza,Watford,ma MAR,MF,22.0,20,1416.0,0.0,0.0,0.0,6.0,0.0,0
+João Pedro,Watford,br BRA,FW,19.0,28,1644.0,3.0,1.0,0.0,1.0,0.0,1
+William Troost-Ekong,Watford,ng NGA,DF,27.0,17,1390.0,0.0,0.0,0.0,3.0,0.0,0
+Adam Masina,Watford,ma MAR,DF,27.0,15,1077.0,0.0,1.0,0.0,0.0,0.0,0
+Christian Kabasele,Watford,be BEL,DF,30.0,16,1193.0,0.0,0.0,0.0,0.0,0.0,0
+Daniel Bachmann,Watford,at AUT,GK,27.0,12,1080.0,0.0,0.0,0.0,0.0,0.0,0
+Cucho,Watford,co COL,FW,22.0,25,1147.0,5.0,2.0,0.0,3.0,0.0,1
+Jeremy Ngakia,Watford,eng ENG,DF,20.0,16,903.0,0.0,0.0,0.0,0.0,0.0,0
+Edo Kayembe,Watford,cd COD,MF,22.0,13,799.0,0.0,0.0,0.0,0.0,0.0,0
+Ken Sema,Watford,se SWE,MF,27.0,18,852.0,0.0,0.0,0.0,1.0,0.0,0
+Danny Rose,Watford,eng ENG,DF,31.0,8,689.0,0.0,0.0,0.0,4.0,0.0,0
+Francisco Sierralta,Watford,cl CHI,DF,24.0,5,427.0,0.0,0.0,0.0,0.0,0.0,0
+Oghenekaro Etebo,Watford,ng NGA,MF,25.0,9,401.0,0.0,0.0,0.0,3.0,0.0,0
+Ozan Tufan,Watford,tr TUR,MF,26.0,7,334.0,0.0,0.0,0.0,0.0,0.0,0
+Samuel Kalu,Watford,ng NGA,FW,23.0,4,222.0,0.0,0.0,0.0,0.0,0.0,0
+Nicolas Nkoulou,Watford,cm CMR,DF,31.0,3,168.0,0.0,0.0,0.0,0.0,0.0,0
+Dan Gosling,Watford,eng ENG,MF,31.0,4,166.0,1.0,0.0,0.0,0.0,0.0,1
+Ashley Fletcher,Watford,eng ENG,FW,25.0,3,30.0,0.0,0.0,0.0,0.0,0.0,0
+Troy Deeney,Watford,eng ENG,FW,33.0,2,25.0,0.0,0.0,0.0,0.0,0.0,0
+?ukasz Fabia?ski,West Ham United,pl POL,GK,36.0,37,3330.0,0.0,0.0,0.0,2.0,0.0,0
+Declan Rice,West Ham United,eng ENG,MF,22.0,36,3179.0,1.0,4.0,0.0,8.0,0.0,1
+Tomá Sou?ek,West Ham United,cz CZE,MF,26.0,35,3062.0,5.0,1.0,0.0,3.0,0.0,1
+Jarrod Bowen,West Ham United,eng ENG,FW,24.0,36,2983.0,12.0,10.0,0.0,6.0,0.0,1
+Michail Antonio,West Ham United,jm JAM,FW,31.0,36,2971.0,10.0,8.0,0.0,8.0,1.0,1
+Pablo Fornals,West Ham United,es ESP,FW,25.0,36,2795.0,6.0,3.0,0.0,4.0,0.0,1
+Aaron Cresswell,West Ham United,eng ENG,DF,31.0,31,2726.0,2.0,3.0,0.0,3.0,0.0,1
+Craig Dawson,West Ham United,eng ENG,DF,31.0,34,2754.0,2.0,2.0,0.0,5.0,1.0,1
+Saïd Benrahma,West Ham United,dz ALG,FW,25.0,32,2168.0,8.0,6.0,0.0,0.0,0.0,1
+Vladimír Coufal,West Ham United,cz CZE,DF,28.0,28,2209.0,0.0,4.0,0.0,5.0,1.0,0
+Kurt Zouma,West Ham United,fr FRA,DF,26.0,24,2078.0,1.0,0.0,0.0,1.0,0.0,1
+Manuel Lanzini,West Ham United,ar ARG,MF,28.0,30,1786.0,5.0,3.0,3.0,2.0,0.0,1
+Ben Johnson,West Ham United,eng ENG,DF,21.0,20,1397.0,1.0,0.0,0.0,1.0,0.0,1
+Angelo Ogbonna,West Ham United,it ITA,DF,33.0,11,921.0,1.0,0.0,0.0,1.0,0.0,1
+Issa Diop,West Ham United,fr FRA,DF,24.0,13,963.0,0.0,1.0,0.0,0.0,0.0,0
+Arthur Masuaku,West Ham United,cd COD,DF,27.0,13,650.0,1.0,1.0,0.0,1.0,0.0,1
+Nikola Vlai?,West Ham United,hr CRO,FW,23.0,19,560.0,1.0,0.0,0.0,0.0,0.0,1
+Mark Noble,West Ham United,eng ENG,MF,34.0,11,332.0,1.0,0.0,1.0,0.0,0.0,1
+Ryan Fredericks,West Ham United,eng ENG,DF,28.0,7,307.0,0.0,0.0,0.0,1.0,0.0,0
+Andriy Yarmolenko,West Ham United,ua UKR,FW,31.0,19,316.0,1.0,0.0,0.0,1.0,0.0,1
+Alphonse Areola,West Ham United,fr FRA,GK,28.0,1,90.0,0.0,0.0,0.0,0.0,0.0,0
+Harrison Ashby,West Ham United,sct SCO,DF,19.0,1,7.0,0.0,0.0,0.0,0.0,0.0,0
+Sonny Perkins,West Ham United,eng ENG,FW,17.0,1,4.0,0.0,0.0,0.0,0.0,0.0,0
+Daniel Chesters,West Ham United,eng ENG,MF,19.0,1,1.0,0.0,0.0,0.0,0.0,0.0,0
+Alex Král,West Ham United,cz CZE,MF,23.0,1,1.0,0.0,0.0,0.0,0.0,0.0,0
+Conor Coady,Wolverhampton Wanderers,eng ENG,DF,28.0,38,3361.0,4.0,0.0,0.0,4.0,0.0,1
+José Sá,Wolverhampton Wanderers,pt POR,GK,28.0,37,3285.0,0.0,1.0,0.0,3.0,0.0,0
+João Moutinho,Wolverhampton Wanderers,pt POR,MF,34.0,35,2970.0,2.0,1.0,0.0,4.0,0.0,1
+Romain Saïss,Wolverhampton Wanderers,ma MAR,DF,31.0,31,2705.0,2.0,0.0,0.0,6.0,0.0,1
+Rúben Neves,Wolverhampton Wanderers,pt POR,MF,24.0,33,2661.0,4.0,2.0,0.0,9.0,0.0,1
+Max Kilman,Wolverhampton Wanderers,eng ENG,DF,24.0,30,2687.0,1.0,0.0,0.0,3.0,0.0,1
+Raúl Jiménez,Wolverhampton Wanderers,mx MEX,FW,30.0,34,2631.0,6.0,4.0,1.0,9.0,2.0,1
+Nélson Semedo,Wolverhampton Wanderers,pt POR,DF,27.0,25,2131.0,0.0,1.0,0.0,1.0,0.0,0
+Leander Dendoncker,Wolverhampton Wanderers,be BEL,MF,26.0,30,1950.0,2.0,2.0,0.0,4.0,0.0,1
+Rayan Aït Nouri,Wolverhampton Wanderers,fr FRA,DF,20.0,23,1828.0,1.0,2.0,0.0,4.0,0.0,1
+Hwang Hee-chan,Wolverhampton Wanderers,kr KOR,FW,25.0,30,1816.0,5.0,1.0,0.0,2.0,0.0,1
+Fernando Marçal,Wolverhampton Wanderers,br BRA,DF,32.0,18,1449.0,0.0,0.0,0.0,3.0,0.0,0
+Francisco Trincão,Wolverhampton Wanderers,pt POR,FW,21.0,28,1336.0,2.0,1.0,0.0,0.0,0.0,1
+Daniel Podence,Wolverhampton Wanderers,pt POR,FW,25.0,26,1484.0,2.0,3.0,0.0,2.0,0.0,1
+Adama Traoré,Wolverhampton Wanderers,es ESP,FW,25.0,20,1067.0,1.0,0.0,0.0,0.0,0.0,1
+Jonny Castro,Wolverhampton Wanderers,es ESP,DF,27.0,13,1024.0,2.0,0.0,0.0,1.0,0.0,1
+Willy Boly,Wolverhampton Wanderers,ci CIV,DF,30.0,10,900.0,0.0,0.0,0.0,1.0,0.0,0
+Fábio Silva,Wolverhampton Wanderers,pt POR,FW,19.0,22,572.0,0.0,0.0,0.0,0.0,0.0,0
+Pedro Neto,Wolverhampton Wanderers,pt POR,FW,21.0,13,466.0,1.0,1.0,0.0,3.0,0.0,1
+Toti Gomes,Wolverhampton Wanderers,pt POR,DF,22.0,4,360.0,0.0,0.0,0.0,1.0,0.0,0
+Ki-Jana Hoever,Wolverhampton Wanderers,nl NED,DF,19.0,8,308.0,0.0,0.0,0.0,1.0,0.0,0
+Luke Cundle,Wolverhampton Wanderers,eng ENG,MF,19.0,4,180.0,0.0,0.0,0.0,0.0,0.0,0
+Chiquinho,Wolverhampton Wanderers,pt POR,DF,21.0,8,208.0,0.0,3.0,0.0,0.0,0.0,0
+John Ruddy,Wolverhampton Wanderers,eng ENG,GK,34.0,2,135.0,0.0,0.0,0.0,0.0,0.0,0
+Chem Campbell,Wolverhampton Wanderers,wls WAL,MF,18.0,1,13.0,0.0,0.0,0.0,0.0,0.0,0
+Morgan Gibbs-White,Wolverhampton Wanderers,eng ENG,FW,21.0,2,9.0,0.0,0.0,0.0,1.0,0.0,0
